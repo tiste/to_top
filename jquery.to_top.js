@@ -1,3 +1,11 @@
+/*!
+ * jquery.to_top.js v0.0.1
+ * Baptiste Lecocq - https://github.com/baptistelecocq/to_top
+ *
+ * Released under the MIT license
+ * http://www.opensource.org/licenses/mit-license.php
+ */
+
 ;(function ($, undefined) {
   $.fn.to_top = function (options) {
     var defaults = {
