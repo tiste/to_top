@@ -12,3 +12,8 @@ $('#my-awesome-back-to-top').to_top();
 
 * `limit`: limit value your "Back to top" will display, default = 300
 * `speed`: time to go to top, default = 400
+ 
+## They use to_top
+
+* [@RemiDelhaye](https://github.com/RemiDelhaye) (French IT Developer) - [remidelhaye.fr](http://remidelhaye.fr)
+* [Beerify](http://github.com/epnet/beerify) (RubyOnRails Engine) - [epnet.github.com/beerify](http://epnet.github.com/beerify)
